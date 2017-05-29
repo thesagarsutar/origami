@@ -1,8 +1,2 @@
-Origami Artists
-
-
-
-
-
-
+**Origami Artists**
 
