@@ -1,0 +1,2 @@
+Design tricks are one way to decrease touch. [The Miura Fold](http://en.wikipedia.org/wiki/Miura_fold), a famous origami pattern of creases that forms a folded block when you grab opposite corners of paper and push them together, is an example of the kind of “single degree of freedom fold” \(where you touch an object in just two places and the whole thing folds up in a pattern\) that the team is looking at.
+

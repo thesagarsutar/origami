@@ -7,4 +7,5 @@
 * [Origami Artists](origami-artists.md)
 * [Links](links.md)
 * [thoughts](thoughts.md)
+* [Miura Ori](miura-ori.md)
 
