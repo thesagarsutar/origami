@@ -6,7 +6,7 @@
 * [Technical Aspects](technical-aspect-on-origami.md)
 * [Nature and Biomimicry](nature-and-biomimicry.md)
 * [Historical / Cultural Aspects](historical-and-cultural-perspectives.md)
-* [Geometrical/Mathematical Aspect](geometricalmathematical-aspect.md)
+* [Geometrical/Mathematical Aspects](geometricalmathematical-aspect.md)
 * [Philosophical Aspects](philosophical-perspectives.md)
 * [Technological Aspects](technological-aspects.md)
 * [Precedence Study](precedences.md)
