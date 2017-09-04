@@ -8,6 +8,9 @@
 * [Historical / Cultural Aspects](historical-and-cultural-perspectives.md)
 * [Geometrical/Mathematical Aspect](geometricalmathematical-aspect.md)
 * [Philosophical Aspects](philosophical-perspectives.md)
+* [Technological Aspects](technological-aspects.md)
 * [Precedence Study](precedences.md)
-* [Geometrical/Mathematical Aspect](geometricalmathematical-aspect.md)
+* [Contexts](contexts.md)
+* [Further Inquiries](further-inquiries.md)
+* [Technological Aspects](technological-aspects.md)
 
