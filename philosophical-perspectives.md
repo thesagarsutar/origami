@@ -15,11 +15,9 @@
 
 * **Growth: an origami inspired pot**
 
-> > ![](/assets/3.jpg)
+> ![](/assets/3.jpg)
 >
 > Growth with its origami based geometry transforms and grows with plant, as a plant itself unfolds. The lifecycle of plant is transformation from a seed to a full grown size, the blooming of flower, the unfolding of leaf, the branching of roots. Growth tries to capture capture this lifecycle of plant.
-
- 
 
 * Fold give life to flat surface
 
