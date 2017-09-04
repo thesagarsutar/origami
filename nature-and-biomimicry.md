@@ -13,6 +13,14 @@ Whereever we see in the nature, we see folds in flowers, leaves, plants, branche
 
 ![](/assets/3.png)
 
+* Turtle and his behavior when it senses danger, what is the relation between folds and fear.
+
+![](/assets/2.jpg)
+
+
+
+* **Touch-me-not plant**
+
 
 
 
