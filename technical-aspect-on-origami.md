@@ -7,12 +7,13 @@
 * What is the nature of folds in intangible form
 * Folds are present in soundwave, folds are present in protein, brain, cells, DNA etc.
 * Triangular Origami Tessellations
-* \[Material / technology\] Electricaly heated hindges.
 * Origami Flasher patterns
+
 * Orgamizer algorithm
 * Burr Origami Puzzel
-* 
+* \[Material / technology\] Electricaly heated hindges.
 
+![](/assets/2.png)
 
 
 
