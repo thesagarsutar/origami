@@ -8,7 +8,7 @@
 
 * \[Precedence\] a flypaper memory
 
-* \[Precedence\]** Information and data visualization through origami **-- Interaction and responsiveness will give building the ability to interpret data into transformation. 
+* \[Precedence\]** Information and data visualization through origami **-- Interaction and responsiveness will give building the ability to interpret data into transformation.
 
-
+![](/assets/4.png)
 
