@@ -2,7 +2,3 @@ Today, I am talking with aditya, he is also working on graduation project, his i
 
 
 
-# The Esense of Origami
-
-happyfolding.com --&gt; triangular gridontent and ideas.F
-
