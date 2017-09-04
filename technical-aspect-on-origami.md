@@ -12,9 +12,10 @@
 * Orgamizer algorithm
 
 * Burr Origami Puzzel
+
 * \[Material / technology\] Electricaly heated hindges.
 
 ![](/assets/2.png)
 
-Electrially heated hindge can be controlled using data. This makes it easy to fold a piece of paper using this technology.
+Electrically heated hindge can be controlled using data. This makes it easy to fold a piece of paper using this technology.
 
