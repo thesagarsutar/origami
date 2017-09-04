@@ -17,9 +17,15 @@ Whereever we see in the nature, we see folds in flowers, leaves, plants, branche
 
 ![](/assets/2.jpg)
 
-
-
 * **Touch-me-not plant**
+
+The behavior of touch me not plant. When we touch the plant, it folds its leaves, and unfolds after sometime. It has the relation with shyness.
+
+![](/assets/4.jpg)
+
+
+
+* Protien folding problem -- the role of folding mechanism in protiens
 
 
 
