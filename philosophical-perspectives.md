@@ -19,9 +19,9 @@
 >
 > Growth with its origami based geometry transforms and grows with plant, as a plant itself unfolds. The lifecycle of plant is transformation from a seed to a full grown size, the blooming of flower, the unfolding of leaf, the branching of roots. Growth tries to capture capture this lifecycle of plant.
 
-* Fold give life to flat surface
-
-* The spontaniety of folds, Just the way waves animate the sea, folds on sheet of paper gives the life to paper.
+* **Folds are the medium through which we experience boundaries **-- Folds are very fundamental aspect of nature. One can see folds everywhere. Folds helps us to experience the boundaries. 
+* 
+* **Fold give life to flat surface** -- Thts is the spontaniety of folds, Just the way waves animate the sea, folds on sheet of paper gives the life to paper.
 
 
 
