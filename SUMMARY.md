@@ -12,4 +12,7 @@
 * [Precedence Study](precedences.md)
 * [Contexts](contexts.md)
 * [Further Inquiries](further-inquiries.md)
+* Thoughts
+* [Resources](resources.md)
+  * Origami Artists
 
