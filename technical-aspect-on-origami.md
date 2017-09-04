@@ -15,7 +15,7 @@
 
 * \[Material / technology\] Electricaly heated hindges.
 
-![](/assets/2.png)
+                                                     ![](/assets/2.png)
 
 Electrically heated hindge can be controlled using data. This makes it easy to fold a piece of paper using this technology.
 
