@@ -12,5 +12,4 @@
 * [Precedence Study](precedences.md)
 * [Contexts](contexts.md)
 * [Further Inquiries](further-inquiries.md)
-* [Technological Aspects](technological-aspects.md)
 
