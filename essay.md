@@ -8,3 +8,7 @@ Emotions are expressed on face, wrinkles on the face represents the worry. When 
 
 **Folds - Aesthetics and functions**
 
+
+
+**Folds - Motion Originate at the movement of folds**
+
