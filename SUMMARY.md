@@ -15,4 +15,5 @@
 * [Thoughts](thoughts.md)
 * [Resources](resources.md)
   * Origami Artists
+* [Essay](essay.md)
 
