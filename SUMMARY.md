@@ -16,4 +16,5 @@
 * [Resources](resources.md)
   * Origami Artists
 * [Essay](essay.md)
+* Origami Bases
 
