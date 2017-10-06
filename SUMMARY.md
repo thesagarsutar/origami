@@ -19,4 +19,5 @@
   * [Origami Artists](resources/origami-artists.md)
 * [Further Inquiries](further-inquiries.md)
 * [Thoughts](thoughts.md)
+* [Essay](essay.md)
 
