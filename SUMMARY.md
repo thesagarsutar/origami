@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [New Media](new-media.md)
-  * [Technology](new-media/technology.md)
-    * Analog Technology
-    * Digital Technology
+* [Technology](new-media/technology.md)
+  * Analog Technology
+  * Digital Technology
 * [Origami](origami.md)
   * [History](origami/history.md)
   * [Origami Bases](origami-bases.md)
