@@ -25,5 +25,7 @@
 * [Resources](resources.md)
   * [Origami Artists](resources/origami-artists.md)
 * [Nature of Folds](essay.md)
+* [Conceptualization](conceptualization.md)
+* [Design](design.md)
 * [Rough Work](rough-work.md)
 
