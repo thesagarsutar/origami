@@ -1,9 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
+* [New Media](new-media.md)
+  * [Technology](new-media/technology.md)
+    * Analog Technology
+    * Digital Technology
 * [Origami](origami.md)
   * [History](origami/history.md)
   * [Origami Bases](origami-bases.md)
+* [Folds](folds.md)
+  * Folds in Body
 * [Research](research.md)
   * [History of Origami](chapter1.md)
   * [Essense of Origami](chapter1/essense-of-origami.md)
@@ -18,6 +24,6 @@
   * [Contexts](contexts.md)
 * [Resources](resources.md)
   * [Origami Artists](resources/origami-artists.md)
-* [Essay](essay.md)
+* [Nature of Folds](essay.md)
 * [Rough Work](rough-work.md)
 
