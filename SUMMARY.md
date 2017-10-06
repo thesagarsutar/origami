@@ -15,8 +15,8 @@
   * [Technological Aspects](technological-aspects.md)
   * [Precedence Study](precedences.md)
 * [Contexts](contexts.md)
+* [Resources](resources.md)
+  * [Origami Artists](resources/origami-artists.md)
 * [Further Inquiries](further-inquiries.md)
 * [Thoughts](thoughts.md)
-* [Resources](resources.md)
-  * Origami Artists
 
