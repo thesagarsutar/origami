@@ -22,10 +22,11 @@
   * [Precedence Study](precedences.md)
   * [Further Inquiries](further-inquiries.md)
   * [Contexts](contexts.md)
-* [Resources](resources.md)
-  * [Origami Artists](resources/origami-artists.md)
 * [Nature of Folds](essay.md)
 * [Conceptualization](conceptualization.md)
 * [Design](design.md)
+* [Prototype](prototype.md)
+* [Resources](resources.md)
+  * [Origami Artists](resources/origami-artists.md)
 * [Rough Work](rough-work.md)
 
