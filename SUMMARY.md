@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+* [Origami](origami.md)
+  * [History](origami/history.md)
+  * [Origami Bases](origami-bases.md)
 * [History of Origami](chapter1.md)
 * [Essense of Origami](chapter1/essense-of-origami.md)
 * [Technical Aspects](technical-aspect-on-origami.md)
@@ -15,6 +18,7 @@
 * [Thoughts](thoughts.md)
 * [Resources](resources.md)
   * Origami Artists
-* [Essay](essay.md)
-* Origami Bases
+* [Origami](origami.md)
+  * [History](origami/history.md)
+  * [Origami Bases](origami-bases.md)
 
