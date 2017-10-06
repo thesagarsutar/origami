@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [New Media](new-media.md)
+* [New Media Design](new-media.md)
 * [Technology](new-media/technology.md)
   * Analog Technology
   * Digital Technology
