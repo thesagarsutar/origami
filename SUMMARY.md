@@ -6,7 +6,6 @@
   * Analog Technology
   * Digital Technology
 * [Origami](origami.md)
-  * [History](origami/history.md)
   * [Origami Bases](origami-bases.md)
 * [Folds](folds.md)
   * Folds in Body
