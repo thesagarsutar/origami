@@ -8,7 +8,9 @@ Akira Yoshizava is considered as father of origami. He is considered as one of t
 
 > Akira Yoshizawa, tried not to make origami sculpures lifelike, but "living" like - Ms. Sakamoto
 
-Folded according to a rigid set of rules that had remained unchanged for generations, origami figures were usually flat and static. Mr. Yoshizawa, who was self-taught, broke with tradition. He pioneered a technique, known as wet folding, that allows dampened paper to be molded into sculptural forms, like the marvelously ugly crenellations of a gorilla's face.[^1]
+Folded according to a rigid set of rules that had remained unchanged for generations, origami figures were usually flat and static. Mr. Yoshizawa, who was self-taught, broke with tradition. He pioneered a technique, known as wet folding, that allows dampened paper to be molded into sculptural forms, like the marvelously ugly crenellations of a gorilla's face.[^2]
 
-[^1]: Akira Yoshizawa, 94, Modern Origami Master \([https://query.nytimes.com/gst/fullpage.html?res=9F07E4DC113FF931A35757C0A9639C8B63](https://query.nytimes.com/gst/fullpage.html?res=9F07E4DC113FF931A35757C0A9639C8B63)\)
+
+
+[^1]: [https://query.nytimes.com/gst/fullpage.html?res=9F07E4DC113FF931A35757C0A9639C8B63](https://query.nytimes.com/gst/fullpage.html?res=9F07E4DC113FF931A35757C0A9639C8B63)
 
