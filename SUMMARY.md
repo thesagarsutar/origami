@@ -18,6 +18,7 @@
 * [Resources](resources.md)
   * [Origami Artists](resources/origami-artists.md)
 * [Further Inquiries](further-inquiries.md)
-* [Thoughts](thoughts.md)
 * [Essay](essay.md)
+* [Rough Work](rough-work.md)
+* [Thoughts](thoughts.md)
 
