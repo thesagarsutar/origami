@@ -18,7 +18,4 @@
 * [Thoughts](thoughts.md)
 * [Resources](resources.md)
   * Origami Artists
-* [Origami](origami.md)
-  * [History](origami/history.md)
-  * [Origami Bases](origami-bases.md)
 
