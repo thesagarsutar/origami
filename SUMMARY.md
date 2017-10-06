@@ -14,11 +14,10 @@
   * [Philosophical Aspects](philosophical-perspectives.md)
   * [Technological Aspects](technological-aspects.md)
   * [Precedence Study](precedences.md)
-* [Contexts](contexts.md)
+  * [Further Inquiries](further-inquiries.md)
+  * [Contexts](contexts.md)
 * [Resources](resources.md)
   * [Origami Artists](resources/origami-artists.md)
-* [Further Inquiries](further-inquiries.md)
 * [Essay](essay.md)
 * [Rough Work](rough-work.md)
-* [Thoughts](thoughts.md)
 
