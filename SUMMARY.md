@@ -7,6 +7,7 @@
   * Digital Technology
 * [Origami](origami.md)
   * [Origami Bases](origami-bases.md)
+  * [Paper](paper.md)
 * [Folds](folds.md)
   * Folds in Body
 * [Research](research.md)
