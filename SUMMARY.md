@@ -9,7 +9,7 @@
   * [Origami Bases](origami-bases.md)
   * [Paper](paper.md)
 * [Folds](folds.md)
-  * Folds in Body
+  * [Folds in Body](folds/folds-in-body.md)
 * [Research](research.md)
   * [History of Origami](chapter1.md)
   * [Essense of Origami](chapter1/essense-of-origami.md)
