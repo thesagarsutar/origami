@@ -14,3 +14,7 @@ Folded according to a rigid set of rules that had remained unchanged for generat
 
 He never tried to make origami objects look as realistic as possible, his intent was to express emotions and feeling through origami object. Thats is how he raised the origami from the craft to live art form. Akira Yoshizava is inventor of wer-folding, one of the origami techniques. This technique allows paper to be slightly damped before making a fold. The result was that people can now make more round folds and it gives origami object more sculpted look. This took the origami, from the simple craft realm towads the realm of true artistic expression. This technique is genrally used with thick papers.
 
+The Yoshizawa-Randlett system of notations is a standardized way of diagramming the steps involved in folding a particular origami model. In 1954, Akira Yoshizawa's _Atarashi Origami Geijutsu \(New Origami Art\)_ used a diagramming system that included dotted and dashed lines to indicate mountain and valley folds, plus symbols such as the markings for “inflate” and “round.” This caught the attention of Samuel Randlett and Robert Harbin, who added a few additional symbols to develop the complete notation system that is still used by paper folders around the world today.[^1]
+
+[^1]: Akira Yoshizawa \(https://www.thespruce.com/origami-artist-akira-yoshizawa-biography-2540655\)
+
