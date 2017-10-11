@@ -12,5 +12,5 @@ Akira Yoshizava is considered as father of origami. He is considered as one of t
 
 Folded according to a rigid set of rules that had remained unchanged for generations, origami figures were usually flat and static. Mr. Yoshizawa, who was self-taught, broke with tradition. He pioneered a technique, known as wet folding, that allows dampened paper to be molded into sculptural forms, like the marvelously ugly crenellations of a gorilla's face.[^2]
 
-He never tried to make origami objects look as realistic as possible, his intent was to express emotions and feeling through origami object. Thats is how he raised the origami from the craft to live art form.
+He never tried to make origami objects look as realistic as possible, his intent was to express emotions and feeling through origami object. Thats is how he raised the origami from the craft to live art form. Akira Yoshizava is inventor of wer-folding, one of the origami techniques. This technique allows paper to be slightly damped before making a fold. The result was that people can now make more round folds and it gives origami object more sculpted look. This took the origami, from the simple craft realm towads the realm of true artistic expression. This technique is genrally used with thick papers.
 
