@@ -6,10 +6,9 @@
   * Analog Technology
   * Digital Technology
 * [Origami](origami.md)
-  * [Origami Bases](origami-bases.md)
-  * [Paper](paper.md)
-* [Folds](folds.md)
-  * [Folds in Body](folds/folds-in-body.md)
+* [Paper](paper.md)
+* [Origami Bases](origami-bases.md)
+* [Folds in Body](folds/folds-in-body.md)
 * [Research](research.md)
   * [History of Origami](chapter1.md)
   * [Essense of Origami](chapter1/essense-of-origami.md)
@@ -27,7 +26,6 @@
 * [Design](design.md)
 * [Prototype](prototype.md)
 * [Reflection on Project](reflection-on-project.md)
-* [Resources](resources.md)
-  * [Origami Artists](resources/origami-artists.md)
+* [Nature of Folds](essay.md)
 * [Rough Work](rough-work.md)
 
