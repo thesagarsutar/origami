@@ -19,7 +19,7 @@
 
    4. design future
 
-
-
 Mobius strip
+
+
 
