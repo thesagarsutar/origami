@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Content](content.md)
 * [New Media Design](new-media.md)
 * [Technology](new-media/technology.md)
   * Analog Technology
@@ -27,5 +28,5 @@
 * [Prototype](prototype.md)
 * [Reflection on Project](reflection-on-project.md)
 * [Nature of Folds](essay.md)
-* [Rough Work](rough-work.md)
+* [Content](content.md)
 
