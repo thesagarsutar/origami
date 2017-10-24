@@ -28,5 +28,4 @@
 * [Prototype](prototype.md)
 * [Reflection on Project](reflection-on-project.md)
 * [Nature of Folds](essay.md)
-* [Content](content.md)
 
