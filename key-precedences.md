@@ -8,11 +8,11 @@ GROWTH with its origami-based geometry, transforms and grows with plant, as the 
 
 ![](/assets/import2.png)
 
-
-
 ---
 
-#### SA umbrella![](/assets/import1.png)
+#### SA umbrella
+
+![](/assets/import1.png)
 
 Designers collaborated to re-imagine and redefine the structure, form and aesthetics of umbrella. Like origami, the design uses planar tension to generate its form, with the inner and outer canopies moving in unison to open and close the umbrella.[^2]
 
@@ -22,11 +22,7 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 
 ---
 
-
-
 ![](/assets/alucobonddesignboom04.jpg)
-
-
 
 ---
 
@@ -34,5 +30,5 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 
 [^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
 
-[^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\)\)
+[^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/%29\)
 
