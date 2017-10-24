@@ -23,6 +23,7 @@
   * [Further Inquiries](further-inquiries.md)
   * [Contexts](contexts.md)
 * [Nature of Folds](essay.md)
+* [Key Precedences](key-precedences.md)
 * [Conceptualization](conceptualization.md)
 * [Design](design.md)
 * [Prototype](prototype.md)
