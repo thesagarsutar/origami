@@ -4,7 +4,7 @@
 * [Content](content.md)
 * [New Media Design](new-media.md)
 * [Technology](new-media/technology.md)
-  * Analog Technology
+  * [Analog Technology](new-media/technology/analog-technology.md)
   * Digital Technology
 * [Origami](origami.md)
 * [Paper](paper.md)
@@ -27,5 +27,4 @@
 * [Design](design.md)
 * [Prototype](prototype.md)
 * [Reflection on Project](reflection-on-project.md)
-* [Nature of Folds](essay.md)
 
