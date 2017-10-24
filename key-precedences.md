@@ -4,5 +4,19 @@ GROWTH with its origami-based geometry, transforms and grows with plant, as the 
 
 
 
-[^1]: Studio Ayaskan: Growth
+![](/assets/import2.png)
+
+![](/assets/import1.png)
+
+
+
+![](/assets/petit-pli-ryan-mario-yasin-design_dezeen_2364_col_18.jpg)
+
+![](/assets/alucobonddesignboom04.jpg)
+
+
+
+![](/assets/_92472150_dyson3.jpg)
+
+[^1]: Studio Ayaskan: Growth \(https://www.ayaskan.com/growth\)
 
