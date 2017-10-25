@@ -24,6 +24,8 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 
 ![](/assets/petit-pli-ryan-mario-yasin-design_dezeen_2364_col_18.jpg)
 
+Design of these clothes has been inspired from deployable satellite panels. As the child grows, clothes start to unfold themselves, it is said that in 2 years from birth, child grows to 7 sizes and parent spends more than euro 2000 before the child grow to age three. These clothe are called as pletit pli - designed by Ryan Yasin. He has developed a speial fabric which is waterproof, machine washable and recyclable.
+
 ---
 
 ![](/assets/alucobonddesignboom04.jpg)
@@ -32,9 +34,11 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 
 ![](/assets/_92472150_dyson3.jpg)
 
+
+
 [^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
 
 [^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/%29\)
 
-[^3]: The Adventure book \(https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\)
+[^3]: The Adventure book \([https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\](https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\)\)
 
