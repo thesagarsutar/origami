@@ -22,7 +22,7 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 
 ---
 
-![](/assets/petit-pli-ryan-mario-yasin-design_dezeen_2364_col_18.jpg)
+#### Petit pli![](/assets/petit-pli-ryan-mario-yasin-design_dezeen_2364_col_18.jpg)
 
 Design of these clothes has been inspired from deployable satellite panels. As the child grows, clothes start to unfold themselves, it is said that in 2 years from birth, child grows to 7 sizes and parent spends more than euro 2000 before the child grow to age three. These clothe are called as pletit pli - designed by Ryan Yasin. He has developed a speial fabric which is waterproof, machine washable and recyclable.[^4]
 
@@ -30,9 +30,15 @@ Design of these clothes has been inspired from deployable satellite panels. As t
 
 ![](/assets/alucobonddesignboom04.jpg)
 
+
+
 ---
 
-![](/assets/_92472150_dyson3.jpg)
+#### The EcoHelmet 
+
+#### ![](/assets/_92472150_dyson3.jpg)
+
+The EcoHelmet is designed for people who use bike-sharing schemes and might not always have a helmet with them.
 
 [^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
 
@@ -40,5 +46,5 @@ Design of these clothes has been inspired from deployable satellite panels. As t
 
 [^3]: The Adventure book \([https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\](https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book%29\)
 
-[^4]: Pletit Pli \(https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\)
+[^4]: Pletit Pli \([https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\](https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\)\)
 
