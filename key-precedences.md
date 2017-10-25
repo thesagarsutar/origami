@@ -36,13 +36,15 @@ Design of these clothes has been inspired from deployable satellite panels. As t
 
 #### ![](/assets/_92472150_dyson3.jpg)
 
-The EcoHelmet is designed for people who use bike-sharing schemes and might not always have a helmet with them.The EcoHelmet is recyclable and foldable. The helmet uses a honeycomb structure to protect the head which, according to Ms Shiffer, is "incredibly good at absorbing impact".
+The EcoHelmet is designed for people who use bike-sharing schemes and might not always have a helmet with them.The EcoHelmet is recyclable and foldable. The helmet uses a honeycomb structure to protect the head which, according to Ms Shiffer, is "incredibly good at absorbing impact". This helmet is also coated with the material which makes it rain resistance for three to four hours.[^5]
 
-[^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
+[^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)\)
 
-[^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/%29\)
+[^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/%29\) \)
 
-[^3]: The Adventure book \([https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\](https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book%29\)
+[^3]: The Adventure book \([https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book](https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book%29\)\)
 
-[^4]: Pletit Pli \([https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\](https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award%29\)
+[^4]: Pletit Pli \([https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award](https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award%29\) \)
+
+[^5]: EcoHelmet \(http://www.bbc.com/news/technology-38004215\)
 
