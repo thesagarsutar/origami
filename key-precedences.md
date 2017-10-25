@@ -10,6 +10,8 @@ GROWTH with its origami-based geometry, transforms and grows with plant, as the 
 
 ![](/assets/import2.png)
 
+This book has derived the inspiration from origami. It is book but it has no pages or one can say you have to interact with the paper in different way. User folds and unfolds the paper to reveal the new scenario. Folding the page in one way reveals one story, and folding it another way, reveals another story. 
+
 ---
 
 #### SA umbrella
