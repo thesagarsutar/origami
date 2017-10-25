@@ -10,7 +10,7 @@ GROWTH with its origami-based geometry, transforms and grows with plant, as the 
 
 ![](/assets/import2.png)
 
-This book has derived the inspiration from origami. It is book but it has no pages or one can say you have to interact with the paper in different way. User folds and unfolds the paper to reveal the new scenario. Folding the page in one way reveals one story, and folding it another way, reveals another story. In a way it makes the use of metaphor of "Unfolding the life", which indicate that path of the life is predefined.
+This book has derived the inspiration from origami. It is book but it has no pages or one can say you have to interact with the paper in different way. User folds and unfolds the paper to reveal the new scenario. Folding the page in one way reveals one story, and folding it another way, reveals another story. In a way it makes the use of metaphor of "Unfolding the life", which indicate that path of the life is predefined.[^3]
 
 ---
 
@@ -35,4 +35,6 @@ Designers collaborated to re-imagine and redefine the structure, form and aesthe
 [^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
 
 [^2]: SA Umbrella \([https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/\](https://www.designboom.com/design/matthew-waldman-justin-nagelberg-origami-sa-umbrella-11-06-2014/%29\)
+
+[^3]: The Adventure book \(https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\)
 
