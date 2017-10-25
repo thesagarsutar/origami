@@ -30,15 +30,13 @@ Design of these clothes has been inspired from deployable satellite panels. As t
 
 ![](/assets/alucobonddesignboom04.jpg)
 
-
-
 ---
 
-#### The EcoHelmet 
+#### The EcoHelmet
 
 #### ![](/assets/_92472150_dyson3.jpg)
 
-The EcoHelmet is designed for people who use bike-sharing schemes and might not always have a helmet with them.
+The EcoHelmet is designed for people who use bike-sharing schemes and might not always have a helmet with them.The EcoHelmet is recyclable and foldable. The helmet uses a honeycomb structure to protect the head which, according to Ms Shiffer, is "incredibly good at absorbing impact".
 
 [^1]: Studio Ayaskan: Growth \([https://www.ayaskan.com/growth](https://www.ayaskan.com/growth%29%29\)
 
@@ -46,5 +44,5 @@ The EcoHelmet is designed for people who use bike-sharing schemes and might not 
 
 [^3]: The Adventure book \([https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book\](https://www.fastcompany.com/3024943/an-interactive-story-unfolds-in-this-amazing-origami-book%29\)
 
-[^4]: Pletit Pli \([https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\](https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\)\)
+[^4]: Pletit Pli \([https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award\](https://www.theguardian.com/environment/2017/sep/07/origami-inspired-clothing-range-that-grows-with-your-child-wins-dyson-award%29\)
 
