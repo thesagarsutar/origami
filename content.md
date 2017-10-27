@@ -11,7 +11,17 @@
       4. initial project brief  
    4. research
 
-   1. conceptualization
+   1. Folds in Nature
+
+      1. Folds and turtle shell
+
+      2. Folds and Peacock feathers
+
+      3. folds and touch me not plant
+
+   2. Interaction possible with paper
+
+3. 1. conceptualization
 
    2. ideation
 
@@ -20,6 +30,4 @@
    4. design future
 
 Mobius strip
-
-
 
