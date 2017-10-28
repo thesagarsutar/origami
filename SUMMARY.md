@@ -28,4 +28,5 @@
 * [Design](design.md)
 * [Prototype](prototype.md)
 * [Reflection on Project](reflection-on-project.md)
+* [Resources](resources.md)
 
