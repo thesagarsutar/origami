@@ -6,9 +6,9 @@
 * [Technology](new-media/technology.md)
   * [Analog Technology](new-media/technology/analog-technology.md)
   * Digital Technology
-* [Origami](origami.md)
+* [History of Origami](origami.md)
+* [Language of Origami](origami-bases.md)
 * [Paper](paper.md)
-* [Origami Bases](origami-bases.md)
 * [Folds in Body](folds/folds-in-body.md)
 * [Research](research.md)
   * [History of Origami](chapter1.md)
