@@ -6,8 +6,9 @@
 * [Technology](new-media/technology.md)
   * [Analog Technology](new-media/technology/analog-technology.md)
   * Digital Technology
-* [History of Origami](origami.md)
-* [Language of Origami](origami-bases.md)
+* [Origami](origami.md)
+  * [Language of Origami](origami/language-of-origami.md)
+  * [History of Origami](history-of-origami.md)
 * [Paper](paper.md)
 * [Folds in Body](folds/folds-in-body.md)
 * [Research](research.md)
@@ -27,6 +28,5 @@
 * [Conceptualization](conceptualization.md)
 * [Design](design.md)
 * [Prototype](prototype.md)
-* [Reflection on Project](reflection-on-project.md)
-* [Resources](resources.md)
+* [Origami](origami.md)
 
