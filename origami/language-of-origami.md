@@ -1,3 +1,7 @@
+Symbols used in origami
+
+
+
 Language of origami
 
 1. valley folds
@@ -7,8 +11,6 @@ Language of origami
 5. water bomb base
 6. inside reverse fold
 7. outside reverse fold
-
-
 
 
 
