@@ -34,3 +34,7 @@ Just as the waves in the sea animate the sea, the single fold on the piece of pa
 
 Making folds conscious. Folds are everywhere, every living species encounter the folds right from the birth t the death. When the child is in the womb of mother, it is folded. Heart pumps, brain has folds in it, body is folded, cells are folded, DNAs are folded. Folds are present inside out. Sound-wave is folded. Vibrations happens through folds. Folds are visible and invisible. Folds are not folds, folds make the life.
 
+
+
+
+
