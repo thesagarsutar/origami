@@ -1,8 +1,4 @@
-**Unfolding the folds / Nature of folds / Essence of folds**
-
-> _If you give a child a sheet of paper, when he or she doesn’t have any colored pencils to play with, his or her first reaction will be to fold it. That’s the spontaneity of folding! Just as the folds of the waves animate the sea, a single fold in a sheet will bring any flat surface to life. – Nicole Charneau_
-
-
+_If you give a child a sheet of paper, when he or she doesn’t have any colored pencils to play with, his or her first reaction will be to fold it. That’s the spontaneity of folding! Just as the folds of the waves animate the sea, a single fold in a sheet will bring any flat surface to life. – Nicole Charneau_
 
 Just as the carpenter gives the shape to the wood, potter works with the clay – the paper folder, sculpts the paper to get life out of paper. The out of nothingness and goes back to nothing, whatever comes from the nature, goes back to the nature.
 
@@ -25,10 +21,6 @@ As the plant grows over the period of time, it unfolds itself in all the dimensi
 **Folds –Signifies the memory**
 
 Single fold on the sheet of paper can be associated with the concept of memory. If the folded paper is unfolded the crease remains on the paper, permanently.
-
-  
-  
-
 
 **Folds – Give the life**
 
