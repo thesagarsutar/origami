@@ -36,5 +36,5 @@ Making folds conscious. Folds are everywhere, every living species encounter the
 
 
 
-
+Folds allow me to open forms and to deep inside them; they allow me to stimulate my creativity by forcing me to develop strategies for working with the situation they impose on me, a bit like playing a game of chess.
 
