@@ -23,7 +23,6 @@
   * [Precedence Study](precedences.md)
   * [Further Inquiries](further-inquiries.md)
   * [Contexts](contexts.md)
-* [Meaning of folds](essay.md)
 * [Key Precedences](key-precedences.md)
 * [Meaning of folds](essay.md)
 * [Design](design.md)
