@@ -29,4 +29,5 @@
 * [Prototype](prototype.md)
 * [learning](learning.md)
 * [Atomic Theory of Origami](atomic-theory-of-origami.md)
+* [Zen and Folds](folds-and-zen.md)
 
