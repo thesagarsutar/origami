@@ -4,3 +4,7 @@ I started with the topic of origami, when I was making greeting card for my frie
 
 I thought to experiement with origami and technology, the blending of these two domains might looks very cliche to designers, but I am trying to explore this blend to different direction and dimention.
 
+
+
+
+
